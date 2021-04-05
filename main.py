@@ -16,8 +16,8 @@ def download_book(magnet_link):
         print('Скачивается')
         return "Скачивается"
     else:
-        print('Не коректная ссылка')
-        return 'Не коректная ссылка'
+        print('Не корректная ссылка')
+        return 'Не корректная ссылка'
 
 
 def download_greed(torrent_magnet_message):
